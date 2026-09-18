@@ -7,7 +7,7 @@ its own isolated development slot.
 ## Install
 
 ```sh
-brew install --cask eirsyl/berth
+brew install --cask eirsyl/berth/berth
 ```
 
 That expands to tapping `eirsyl/homebrew-berth` and installing the `berth` cask from it. Berth is
