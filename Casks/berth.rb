@@ -1,6 +1,6 @@
 cask "berth" do
-  version "0.0.3"
-  sha256 "79937e7104d3ee4a19a0d8835e13f0ca4fb3a3ec6e88ce62f1b85e9053aab56f"
+  version "0.0.4"
+  sha256 "642f0541e7be110b98c0efa9a48e1e09c795479fdad75672fd49d4db881b45a4"
 
   url "https://github.com/eirsyl/homebrew-berth/releases/download/v#{version}/Berth-#{version}-arm64.dmg"
   name "Berth"
